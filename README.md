@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta magia de medianoche ya me tiene en la nota
+> Me tienes loco, mami, mi mente no se agota
+> Somos dueños de la calle cuando el reloj explota
+> Siento el ritmo en tu cintura, cómo la pista rebota
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
